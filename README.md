@@ -1,4 +1,4 @@
 ### Tempy
 
 test
-![Raspberry PinOut](https://github.com/milhamat/IotRoomTemp/blob/master/RaspberryAndSensorPinOut.png | width=100)
+![Raspberry PinOut](https://github.com/milhamat/IotRoomTemp/blob/master/RaspberryAndSensorPinOut.png)
