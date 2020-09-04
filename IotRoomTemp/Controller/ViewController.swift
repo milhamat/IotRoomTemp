@@ -32,6 +32,8 @@ class ViewController: UIViewController {
 
     @IBAction func updateButtonPressed(_ sender: UIButton) {
         tempManager.fectTemperature()
+        let genrateHaptic = UIImpactFeedbackGenerator(style: .medium)
+        genrateHaptic.impactOccurred()
     }
     //    @objc func updateTemp(){
 //        tempManager.fectTemperature()
