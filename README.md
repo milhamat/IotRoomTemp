@@ -1,4 +1,4 @@
-### Tempy 
+# Tempy 
 
 
 ![appDesign](https://github.com/milhamat/IotRoomTemp/blob/master/TempDesign500x.png)
