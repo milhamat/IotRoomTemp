@@ -1,5 +1,6 @@
 # Tempy 
 [![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat)](https://developer.apple.com/swift)
+![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 
 ![appDesign](https://github.com/milhamat/IotRoomTemp/blob/master/TempDesign500x.png)
 
