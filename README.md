@@ -21,3 +21,6 @@ and here for the raspberry pi schematic and sourch code you can check it bellow
 https://electronicshobbyists.com/raspberry-pi-sending-data-to-thingspeak-simplest-raspberry-pi-iot-project/
 
 ![Raspberry PinOut](https://github.com/milhamat/IotRoomTemp/blob/master/RaspberrypiSesorPinOut500x.png)
+
+you also can checkout code bellow
+https://github.com/milhamat/raspbpi_iot-temp/blob/main/IoTHumidTemp.py
